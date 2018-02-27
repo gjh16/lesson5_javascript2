@@ -4,20 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 27, 2018
 
 ### Student Name:  
-(First and Last Name)
+Glennetria J. Harold
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson is designed to show students how various functions such as if/else 
+statements, while loops, and and arrays can help improve code and make programming 
+more presice and conditional.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://gjh16.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use if/else and nested if statement to make choices.
+2. I leared what functions are and how to use them in a program to perform an assigned task.
+3. I leared arrays are used to store more than 1 value at a time under the same variable.
 
